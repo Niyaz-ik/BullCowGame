@@ -1,0 +1,8 @@
+﻿  FBullCowGame.cpp
+C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\BullCowGame\FBullCowGame.cpp(14,79): warning C4267:  return: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\BullCowGame\FBullCowGame.cpp(27,51): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\BullCowGame\FBullCowGame.cpp(116,44): warning C4805:  ==: небезопасное смешение типа "bool" и типа "int" в операции
+C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\BullCowGame\FBullCowGame.cpp(116,44): warning C4805: C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\BullCowGame\main.cpp(72) : warning C4715: GetValidGuess: значение возвращается не при всех путях выполнения
+  BullCowGame.vcxproj -> C:\Users\4erep\Desktop\C++ Projects\Testing_1\Section_02\x64\Debug\BullCowGame.exe
